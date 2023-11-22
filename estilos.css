@@ -1,0 +1,306 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.bodyTecnologia {
+    background-repeat: no-repeat;
+    background-image: url("fondos-tecnologia.jpg");
+    background-size: cover;
+    color: white;
+    height: 230vh;
+}
+
+.bodyTecnologia1 {
+    background-repeat: no-repeat;
+    background-image: url("fondos-tecnologia.jpg");
+    background-size: cover;
+    color: white;
+     height: 110vh;
+
+}
+
+.bodyTecnologia2 {
+    background-repeat: no-repeat;
+    background-image: url("fondos-tecnologia.jpg");
+    background-size: cover;
+    color: white;
+     height: 110vh;
+
+}
+
+.electro {
+    background-image: url("electronica.gif");
+    width: 440px;
+    height: 440px;
+}
+
+.contenido {
+    height: 280px;
+    width: 100%;
+    position: absolute;
+    top: 320px;
+}
+
+
+.imagentecno {
+    background-repeat: no-repeat;
+    float: right;
+    height: 200px;
+    width: 260px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-image: url("medellin.jpeg");
+
+}
+
+.textotecno {
+    text-align: justify;
+    color: black;
+    font-size: 30px;
+}
+
+
+/*
+La etiqueta imagentecno y textotecno se puede modificar de acuerdo a la 
+necesidad de cada una de las página.
+
+*/
+
+.imagen {
+    background-repeat: no-repeat;
+    float: right;
+    height: 200px;
+    width: 260px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-image: url("medellin.jpeg");
+}
+
+
+
+.texto {
+    text-align: justify;
+    color: black;
+    font-size: 24px;
+}
+
+.imagenInicio{
+    height: 400px;
+    margin-top: 250px;
+    margin-left: -700px;
+}
+
+.texto2{
+    font-size: 20px;
+}
+
+.texto3{
+    font-size: 18px;
+}
+
+.videotecnologia1{
+    margin-top: 350px;
+    margin-left: 600px;
+}
+
+.videotecnologia2{
+    margin-top: 370px;
+    margin-left: 360px;
+}
+
+.videotecnologia3{
+    margin-top: -318px;
+    margin-left: 950px; 
+}
+
+.carousel-inner{
+    width: 200px;
+    height: 800px;
+}
+
+.navbar.bg-body-tertiary{
+    background-color: green !important;
+    height: 60px;
+}
+
+.containerForm{
+    margin-top: 100px;
+}
+
+.body{
+    height: 100vh;
+}
+
+.containerFooter{
+    margin-top: 227px;
+}
+
+.btnInicio{
+    margin-left: 60px;
+}
+
+.videotecnologia4{
+    margin-top: 10px;
+    margin-left: 370px; 
+}
+
+.videotecnologia5{
+    margin-top: 10px;
+    margin-left: 370px; 
+}
+
+.bodySociales3{
+    background-repeat: no-repeat;
+    background-image: url("fondo_sociales.jpg");
+    background-size: cover;
+    color: black;
+    height: 350vh;
+}
+
+.infografia{
+    margin-top: 10px;
+    margin-left: 370px;  
+}
+
+.textoEspañol{
+    color: black;
+    text-align: justify;
+    width: 550px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.titulo1{
+    margin-left: 150px;
+}
+
+.titulo2{
+    margin-left: 800px;
+    margin-top: -540px;
+}
+
+.textoIngles{
+    color: black;
+    text-align: justify;
+    width: 550px;
+    height: 300px;
+    margin-left: 800px;
+}
+
+.Gif{
+    width: 550px;
+    height: 300px;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+
+.bodyIngles3{
+    background-repeat: no-repeat;
+    background-image: url("fondo_ingles.jpg");
+    background-size: cover;
+    color: white;
+    height: 230vh;
+}
+
+.bodyEtica3{
+    background-repeat: no-repeat;
+    background-color: #FFC95E;
+    background-size: cover;
+    color: white;
+    height: 230vh;
+}
+
+.bodyMatematicas3{
+    background-repeat: no-repeat;
+    background-image: url("fondo_matematicas.jpg");
+    background-size: cover;
+    color: white;
+    height: 150vh;
+}
+
+.pilar1{
+    color: black;
+    text-align: justify;
+    width: 850px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.tituloEtica1{
+    color: black;
+    margin-left: 200px;
+}
+
+.pilar2{
+    color: black;
+    text-align: justify;
+    width: 550px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.tituloEtica2{
+    margin-top: 100px;
+    color: black;
+    margin-left: 200px;
+}
+
+.pilar3{
+    color: black;
+    text-align: justify;
+    width: 550px;
+    height: 300px;
+    margin-top: -3px;
+    margin-left: 200px;
+}
+
+.tituloEtica3{
+    margin-top: 30px;
+    color: black;
+    margin-left: 200px; 
+}
+
+.tituloEtica4{
+    color: black;
+    margin-left: 200px; 
+    margin-top: 100px;
+}
+
+.pilar4{
+    color: black;
+    text-align: justify;
+    width: 550px;
+    height: 300px;
+    margin-top: -3px;
+    margin-left: 200px;
+}
+
+.imagenEtica1{
+    margin-left: 70rem;
+    margin-top: -100px;
+}
+
+.imagenEtica2{
+    margin-left: 50rem;
+    margin-top: -400px;
+}
+
+.imagenEtica3{
+    margin-left: 50rem;
+    margin-top: -340px;
+}
+
+.imagenEtica4{
+    margin-left: 50rem;
+    margin-top: -340px;
+}
+
+.audioIngles{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
